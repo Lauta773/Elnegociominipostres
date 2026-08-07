@@ -1,8 +1,0 @@
-EL NEGOCIO DE LOS MINI POSTRES — LANDING AUTÓNOMA
-
-1. Podés abrir index.html con doble clic: el diseño y las imágenes ya están incorporados.
-2. Para Vercel, subí los tres archivos de esta carpeta a la raíz del repositorio.
-3. En Vercel elegí Framework Preset: Other y no agregues comandos de compilación.
-4. Todos los botones de compra llevan a https://pay.hotmart.com/D107065157G
-
-Archivo generado desde vercel-html.
